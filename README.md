@@ -1,6 +1,6 @@
 # Chapter 14: Getting to Know More of the Ecosystem
 
-This repository contains the code from the book for Chapter 14, Getting to Know More of the Ecosystem. See the [main book page)[https://github.com/realworldjava) for the list of all chapter specific repositories.
+This repository contains the code from the book for Chapter 14, Getting to Know More of the Ecosystem. See the [main book page](https://github.com/realworldjava) for the list of all chapter specific repositories.
 
 # How this repository is organized
 
